@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @JuneParkCode (Photogrammer)
-👀 I’m interested in Photography
-- 🌱 I’m currently learning Node.js, React, C/C++
-- :camera: My photo portfolio
+<div align = center>
+  <h1> 👋 Hi, I’m Photogrammer</h1>
+
+🌱 I’m currently learning 
+  
+Node.js, React, C/C++
+  
+:camera: My photo portfolio
+  
 https://junephotography.myportfolio.com
-- :clipboard: My blog
+  
+:clipboard: My blog
+  
 https://photogrammers.tistory.com
+</div>
 
 - Boostcamp Challenge (web) 21.07~08
 - 42 Seoul 22.02~
