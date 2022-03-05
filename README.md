@@ -9,7 +9,8 @@ https://photogrammers.tistory.com
 - Boostcamp Challenge (web) 21.07~08
 - 42 Seoul 22.02~
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuneParkCode)](https://github.com/anuraghazra/github-readme-stats)
+![photogrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuneParkCode&count_private=true&show_icons=true&theme=city_lights)
+
 
 <!---
 JuneParkCode/JuneParkCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
