@@ -40,9 +40,14 @@
   
 </div>
 
+<div align = center>
+  <h3> Git Stats </h3>
+  
+![photogrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuneParkCode&count_private=true&show_icons=true&theme=react&hide_border=1)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuneParkCode&theme=react&layout=compact&hide_border=1&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![photogrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuneParkCode&count_private=true&show_icons=true&theme=react&hide_border=1)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuneParkCode&theme=react&layout=compact&hide_border=1&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 <div align = center>
   <a href="https://photogrammers.tistory.com"> <img src="https://img.shields.io/badge/link-Blog-ff7700?style=for-the-badge"></a>
   </div>
