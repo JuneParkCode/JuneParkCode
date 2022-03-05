@@ -30,7 +30,7 @@
      <img src="https://img.shields.io/badge/BoostCamp_Web-Challenge_21.07~08-blue?style=for-the-badge">
   </div>
   <div>
-     <img src="https://img.shields.io/badge/Seoul-CADET_2022.03-black?style=for-the-badge&logo=42">
+     <img src="https://img.shields.io/badge/Seoul-CADET_2022.03~-black?style=for-the-badge&logo=42">
    </div>
   <br>
 
