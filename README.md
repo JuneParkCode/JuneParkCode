@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuneParkCode (Photogrammer)
-<!-- - 👀 I’m interested in Photography
-- 🌱 I’m currently learning Node.js -->
+👀 I’m interested in Photography
+- 🌱 I’m currently learning Node.js & c++
 - :camera: My photo portfolio
 https://junephotography.myportfolio.com
 - :clipboard: My blog
