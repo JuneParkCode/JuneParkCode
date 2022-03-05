@@ -9,7 +9,7 @@ https://photogrammers.tistory.com
 - Boostcamp Challenge (web) 21.07~08
 - 42 Seoul 22.02~
 
-![photogrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuneParkCode&count_private=true&show_icons=true&theme=react&hide_border=1)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuneParkCode&theme=react&layout=compact&hide_border=1)](https://github.com/anuraghazra/github-readme-stats)
+![photogrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuneParkCode&count_private=true&show_icons=true&theme=react&hide_border=1)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuneParkCode&theme=react&layout=compact&hide_border=1&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
