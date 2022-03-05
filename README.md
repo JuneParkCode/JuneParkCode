@@ -3,7 +3,7 @@
  
   <a href="https://photogrammers.tistory.com"> :clipboard: My blog </a>
   
-  <h3> Tech Stack </h3>
+  <h3> 💻 </h3>
  
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   
