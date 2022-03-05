@@ -27,10 +27,10 @@
   
   <br> 🏛️
    <div>
-     <img src="https://img.shields.io/badge/BoostCamp_Web-Challenge_21.07~08-blue?style=for-the-badge">
+     <a href="https://boostcamp.connect.or.kr"> <img src="https://img.shields.io/badge/BoostCamp_Web-Challenge_21.07~08-blue?style=for-the-badge"> </a>
   </div>
   <div>
-     <img src="https://img.shields.io/badge/Seoul-CADET_2022.03~-black?style=for-the-badge&logo=42">
+     <a href="https://42seoul.kr/seoul42/main/view"> <img src="https://img.shields.io/badge/Seoul-CADET_2022.03~-black?style=for-the-badge&logo=42"> </a>
    </div>
   <br>
 
