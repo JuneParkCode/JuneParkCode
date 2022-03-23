@@ -58,7 +58,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuneParkCode&theme=react&layout=compact&hide_border=1&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
 
-    <h3> 42 Stats </h3>
 [![sungjpar's 42 stats](https://badge42.vercel.app/api/v2/stats/cl138rfz1000609l1ighwxvfu?cursusId=21)](https://github.com/JaeSeoKim/badge42)
   
 </div>
