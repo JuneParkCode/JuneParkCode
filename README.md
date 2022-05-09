@@ -63,7 +63,7 @@
 </div>
 <div align = center>
   <a href="https://photogrammers.tistory.com"> <img src="https://img.shields.io/badge/link-Blog-ff7700?style=for-the-badge"></a>
-  <a href="https://www.notion.so/Photogrammer-efc3858550df465482f4964c8d4344be"> <img src="https://img.shields.io/badge/link-notion-ff7700?style=for-the-badge"></a>
+  <a href="https://lumpy-swamp-39e.notion.site/Photogrammer-efc3858550df465482f4964c8d4344be"> <img src="https://img.shields.io/badge/link-notion-ff7700?style=for-the-badge"></a>
 
 </div>
   
