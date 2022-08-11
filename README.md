@@ -19,6 +19,7 @@
   <br>
   <h3> 💻 </h3>
   <img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=Vim&logoColor=white">
+  <img src="https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=white">
   <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
   <img src="https://img.shields.io/badge/-iTerm2-black?style=for-the-badge&logo=iTerm2&logoColor=white">
   <br>
