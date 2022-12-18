@@ -3,22 +3,20 @@
  
  
  
-  <h3> 🧰 I can read... </h3>
+  <h3> 🧰 Main language </h3>
   
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
   
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-  
+<!--   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">-->
   <!--<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> -->
   
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> -->
+<!--   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> -->
   <br>
   <h3> 💻 </h3>
-  <img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=Vim&logoColor=white">
+  <img src="https://img.shields.io/badge/-CLion-black?style=for-the-badge&logo=CLion&logoColor=white">
   <img src="https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=white">
   <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
   <img src="https://img.shields.io/badge/-iTerm2-black?style=for-the-badge&logo=iTerm2&logoColor=white">
