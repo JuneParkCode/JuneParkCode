@@ -35,14 +35,15 @@
   
   
   <br> 🏛️
+  <div>
+   <a href="https://42seoul.kr/seoul42/main/view"> <img src="https://img.shields.io/badge/Seoul-CADET_22.03~-black?style=for-the-badge&logo=42"> </a>
+ </div>
    <div>
      <a href="https://boostcamp.connect.or.kr"> <img src="https://img.shields.io/badge/BoostCamp_Web-Challenge_21.07~08-blue?style=for-the-badge"> </a>
   </div>
   <div>
-     <a href="https://42seoul.kr/seoul42/main/view"> <img src="https://img.shields.io/badge/Seoul-CADET_2022.03~-black?style=for-the-badge&logo=42"> </a>
-   </div>
-  <br>
-
+   <a href="https://khu.ac.kr"> <img src="https://img.shields.io/badge/KHU-Chemical Engineering_15.02~22.02-A40F16?style=for-the-badge"> </a>
+ </div>    
 
 
 
