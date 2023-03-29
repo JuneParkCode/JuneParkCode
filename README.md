@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/-Lightroom-31A8FF?style=for-the-badge&logo=Adobe Lightroom&logoColor=white">
   <img src="https://img.shields.io/badge/-Photoshop-160b8c?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
   
-  <a href="https://junephotography.myportfolio.com"> <img src="https://img.shields.io/badge/link-Photography Portfolio-black?style=for-the-badge"></a>
+  <a href="https://art.photogrammer.me"> <img src="https://img.shields.io/badge/link-Photography Portfolio-black?style=for-the-badge"></a>
   
   
   <br> 🏛️
@@ -62,7 +62,7 @@
   
 </div>
 <div align = center>
-  <a href="https://photogrammers.tistory.com"> <img src="https://img.shields.io/badge/link-Blog-ff7700?style=for-the-badge"></a>
+  <a href="https://blog.photogrammer.me"> <img src="https://img.shields.io/badge/link-Blog-ff7700?style=for-the-badge"></a>
   <a href="https://sungjpar.notion.site"> <img src="https://img.shields.io/badge/link-notion-ff7700?style=for-the-badge"></a>
 
 </div>
